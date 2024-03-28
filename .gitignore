@@ -1,0 +1,6 @@
+.vscode/*
+env_tf/*
+learning/dataImgData/*
+learning/data/*
+cifar10/cifar-10/*
+cifar10/data/*
