@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/nomura/ML/env_tf/lib/python3.10/site-packages"
+    ],
+    "remote.autoForwardPortsFallback": 0,
+}

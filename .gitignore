@@ -4,3 +4,5 @@ learning/dataImgData/*
 learning/data/*
 cifar10/cifar-10/*
 cifar10/data/*
+my_env/*
+NLP/env_NLP/*
